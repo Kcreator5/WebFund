@@ -98,12 +98,12 @@ p.colored {
   color: var(--paragraph-color-on-color);
 }
 nav {
-  background-color: var(--nav-background-color);
+  background-color: #56d0da;
   line-height: 3em;
   text-align: center;
   font-size: 1.2em;
 }
-nav  {
+nav {
   list-style-type: none;
   display: flex;
 }
